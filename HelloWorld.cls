@@ -1,5 +1,5 @@
- public with sharing class HelloWorld {
+public with sharing class HelloWorld {
  public static String sayHello() {
- return ’Hello, Salesforce CLI!’;
- }
+    return ’Hello, Salesforce CLI!’;
+    }
  }
